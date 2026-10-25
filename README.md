@@ -7,7 +7,7 @@
 
 A Matomo 5 plugin that lets SuperUsers reorder and hide categories and reports in the Reporting Menu (left sidebar) through **Administration → System → Reporting Menu**.
 
-![NeorMenuCustomizer reporting menu settings in Matomo](screenshots/menu.png)
+![Matomo reporting menu before and after customization with NeorMenuCustomizer](screenshots/menu-before-after.png)
 
 ## Features
 
@@ -53,6 +53,8 @@ Activate **NeorMenuCustomizer** under **Administration → Plugins**, or run thi
 ```bash
 php console plugin:activate NeorMenuCustomizer
 ```
+
+![NeorMenuCustomizer reporting menu settings in Matomo](screenshots/menu.png)
 
 ## Usage
 
