@@ -1,0 +1,27 @@
+{
+    "NeorMenuCustomizer": {
+        "PluginDescription": "Customize Matomo Reporting Menu: hide rarely used items and reorder categories and reports via a visual Drag-and-Drop manager.",
+        "MenuReportingCustomizer": "Menu Customizer",
+        "PageTitle": "Menu Customizer",
+        "PageDescription": "Manage the visibility and order of reporting categories and subcategories in Matomo's left sidebar. Changes apply globally to all users.",
+        "Save": "Save Changes",
+        "Saving": "Saving...",
+        "SavedSuccess": "Menu configuration saved successfully.",
+        "SaveError": "An error occurred while saving menu configuration.",
+        "Reset": "Reset to Defaults",
+        "ResetConfirm": "Are you sure you want to reset the reporting menu order and visibility to defaults?",
+        "ResetSuccess": "Menu configuration has been reset.",
+        "SearchPlaceholder": "Search categories and reports...",
+        "AllVisible": "All visible",
+        "HiddenCount": "%1$s hidden",
+        "DragCategoryHint": "Drag categories to change their order in the left menu.",
+        "DragSubcategoryHint": "Drag reports inside a category to reorder them.",
+        "VisibilityToggle": "Toggle visibility",
+        "Visible": "Visible",
+        "Hidden": "Hidden",
+        "NoItemsFound": "No menu items match your search.",
+        "ExpandAll": "Expand All",
+        "CollapseAll": "Collapse All",
+        "UnsavedChangesWarning": "You have unsaved changes. Are you sure you want to leave this page?"
+    }
+}

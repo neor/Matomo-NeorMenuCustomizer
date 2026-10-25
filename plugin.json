@@ -1,0 +1,24 @@
+{
+    "name": "NeorMenuCustomizer",
+    "description": "Customize Matomo Reporting Menu: hide rarely used items and reorder categories and reports via a visual Drag-and-Drop manager.",
+    "version": "1.0.0",
+    "license": "GPL v3+",
+    "keywords": [
+        "menu",
+        "navigation",
+        "customizer",
+        "admin"
+    ],
+    "require": {
+        "piwik": ">=5.0.0,<6.0.0",
+        "php": ">=8.1.0"
+    },
+    "authors": [
+        {
+            "name": "Nikolay Lisienko | Neor Digital",
+            "email": "tere@neor.ee",
+            "homepage": "https://neor.digital/"
+        }
+    ],
+    "homepage": "https://github.com/neor/Matomo-NeorMenuCustomizer"
+}

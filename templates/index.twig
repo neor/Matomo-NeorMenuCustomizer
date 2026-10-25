@@ -1,0 +1,18 @@
+{% extends 'admin.twig' %}
+
+{% set title %}{{ 'NeorMenuCustomizer_PageTitle'|translate }}{% endset %}
+
+{% block content %}
+<div class="neor-menu-customizer-container">
+    <div id="neor-menu-customizer-app"
+         data-nonce="{{ nonce|e('html_attr') }}"
+         data-token-auth="{{ token_auth|e('html_attr') }}"
+         data-structure="{{ menuStructure|json_encode|e('html_attr') }}">
+        {# Fallback for non-JS / before mount #}
+        <div class="neor-mc-loading">
+            <span class="icon-loading-piwik"></span>
+            <span>{{ 'General_Loading'|translate }}</span>
+        </div>
+    </div>
+</div>
+{% endblock %}
