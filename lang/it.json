@@ -1,0 +1,27 @@
+{
+    "NeorMenuCustomizer": {
+        "AllVisible": "Tutti visibili",
+        "CollapseAll": "Comprimi tutto",
+        "DragCategoryHint": "Trascina le categorie per modificarne l’ordine nel menu a sinistra.",
+        "DragSubcategoryHint": "Trascina i report all’interno di una categoria per modificarne l’ordine.",
+        "ExpandAll": "Espandi tutto",
+        "Hidden": "Nascosto",
+        "HiddenCount": "Elementi nascosti: %1$s",
+        "MenuReportingCustomizer": "Personalizzazione del menu",
+        "NoItemsFound": "Nessuna voce del menu corrisponde alla ricerca.",
+        "PageDescription": "Gestisci la visibilità e l’ordine delle categorie e sottocategorie dei report nella barra laterale sinistra di Matomo. Le modifiche si applicano a tutti gli utenti.",
+        "PageTitle": "Personalizzazione del menu",
+        "PluginDescription": "Personalizza il menu dei report di Matomo: nascondi le voci usate raramente e riordina categorie e report tramite un’interfaccia visiva con trascinamento.",
+        "Reset": "Ripristina impostazioni predefinite",
+        "ResetConfirm": "Vuoi davvero ripristinare l’ordine e la visibilità predefiniti del menu dei report?",
+        "ResetSuccess": "La configurazione del menu è stata ripristinata.",
+        "Save": "Salva modifiche",
+        "SaveError": "Si è verificato un errore durante il salvataggio della configurazione del menu.",
+        "SavedSuccess": "La configurazione del menu è stata salvata correttamente.",
+        "Saving": "Salvataggio...",
+        "SearchPlaceholder": "Cerca categorie e report...",
+        "UnsavedChangesWarning": "Ci sono modifiche non salvate. Vuoi davvero uscire da questa pagina?",
+        "VisibilityToggle": "Cambia visibilità",
+        "Visible": "Visibile"
+    }
+}

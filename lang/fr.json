@@ -1,0 +1,27 @@
+{
+    "NeorMenuCustomizer": {
+        "AllVisible": "Tous visibles",
+        "CollapseAll": "Tout réduire",
+        "DragCategoryHint": "Faites glisser les catégories pour modifier leur ordre dans le menu de gauche.",
+        "DragSubcategoryHint": "Faites glisser les rapports au sein d’une catégorie pour modifier leur ordre.",
+        "ExpandAll": "Tout développer",
+        "Hidden": "Masqué",
+        "HiddenCount": "Éléments masqués : %1$s",
+        "MenuReportingCustomizer": "Personnalisation du menu",
+        "NoItemsFound": "Aucun élément du menu ne correspond à votre recherche.",
+        "PageDescription": "Gérez la visibilité et l’ordre des catégories et sous-catégories de rapports dans le menu latéral gauche de Matomo. Les modifications s’appliquent à tous les utilisateurs.",
+        "PageTitle": "Personnalisation du menu",
+        "PluginDescription": "Personnalisez le menu des rapports de Matomo : masquez les éléments rarement utilisés et réorganisez les catégories et les rapports à l’aide d’une interface visuelle par glisser-déposer.",
+        "Reset": "Rétablir les valeurs par défaut",
+        "ResetConfirm": "Voulez-vous vraiment rétablir l’ordre et la visibilité par défaut du menu des rapports ?",
+        "ResetSuccess": "La configuration du menu a été réinitialisée.",
+        "Save": "Enregistrer les modifications",
+        "SaveError": "Une erreur est survenue lors de l’enregistrement de la configuration du menu.",
+        "SavedSuccess": "La configuration du menu a été enregistrée.",
+        "Saving": "Enregistrement...",
+        "SearchPlaceholder": "Rechercher des catégories et des rapports...",
+        "UnsavedChangesWarning": "Vous avez des modifications non enregistrées. Voulez-vous vraiment quitter cette page ?",
+        "VisibilityToggle": "Modifier la visibilité",
+        "Visible": "Visible"
+    }
+}

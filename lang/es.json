@@ -1,0 +1,27 @@
+{
+    "NeorMenuCustomizer": {
+        "AllVisible": "Todos visibles",
+        "CollapseAll": "Contraer todo",
+        "DragCategoryHint": "Arrastre las categorías para cambiar su orden en el menú de la izquierda.",
+        "DragSubcategoryHint": "Arrastre los informes dentro de una categoría para cambiar su orden.",
+        "ExpandAll": "Expandir todo",
+        "Hidden": "Oculto",
+        "HiddenCount": "Elementos ocultos: %1$s",
+        "MenuReportingCustomizer": "Personalización del menú",
+        "NoItemsFound": "Ningún elemento del menú coincide con su búsqueda.",
+        "PageDescription": "Gestione la visibilidad y el orden de las categorías y subcategorías de informes en la barra lateral izquierda de Matomo. Los cambios se aplican a todos los usuarios.",
+        "PageTitle": "Personalización del menú",
+        "PluginDescription": "Personalice el menú de informes de Matomo: oculte los elementos poco utilizados y reordene categorías e informes mediante una interfaz visual de arrastrar y soltar.",
+        "Reset": "Restablecer valores predeterminados",
+        "ResetConfirm": "¿Seguro que desea restablecer el orden y la visibilidad predeterminados del menú de informes?",
+        "ResetSuccess": "Se ha restablecido la configuración del menú.",
+        "Save": "Guardar cambios",
+        "SaveError": "Se ha producido un error al guardar la configuración del menú.",
+        "SavedSuccess": "La configuración del menú se ha guardado correctamente.",
+        "Saving": "Guardando...",
+        "SearchPlaceholder": "Buscar categorías e informes...",
+        "UnsavedChangesWarning": "Tiene cambios sin guardar. ¿Seguro que desea salir de esta página?",
+        "VisibilityToggle": "Cambiar visibilidad",
+        "Visible": "Visible"
+    }
+}

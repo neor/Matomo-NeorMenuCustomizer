@@ -1,0 +1,27 @@
+{
+    "NeorMenuCustomizer": {
+        "AllVisible": "Alle sichtbar",
+        "CollapseAll": "Alle einklappen",
+        "DragCategoryHint": "Ziehen Sie Kategorien, um ihre Reihenfolge im linken Menü zu ändern.",
+        "DragSubcategoryHint": "Ziehen Sie Berichte innerhalb einer Kategorie, um ihre Reihenfolge zu ändern.",
+        "ExpandAll": "Alle ausklappen",
+        "Hidden": "Ausgeblendet",
+        "HiddenCount": "Ausgeblendete Einträge: %1$s",
+        "MenuReportingCustomizer": "Menü anpassen",
+        "NoItemsFound": "Keine Menüeinträge entsprechen Ihrer Suche.",
+        "PageDescription": "Verwalten Sie die Sichtbarkeit und Reihenfolge der Berichtskategorien und Unterkategorien in der linken Seitenleiste von Matomo. Änderungen gelten für alle Benutzer.",
+        "PageTitle": "Menü anpassen",
+        "PluginDescription": "Passen Sie das Berichtsmenü von Matomo an: Blenden Sie selten verwendete Einträge aus und ordnen Sie Kategorien und Berichte per Drag-and-drop neu an.",
+        "Reset": "Auf Standard zurücksetzen",
+        "ResetConfirm": "Möchten Sie die Reihenfolge und Sichtbarkeit des Berichtsmenüs wirklich auf die Standardeinstellungen zurücksetzen?",
+        "ResetSuccess": "Die Menükonfiguration wurde zurückgesetzt.",
+        "Save": "Änderungen speichern",
+        "SaveError": "Beim Speichern der Menükonfiguration ist ein Fehler aufgetreten.",
+        "SavedSuccess": "Die Menükonfiguration wurde erfolgreich gespeichert.",
+        "Saving": "Wird gespeichert...",
+        "SearchPlaceholder": "Kategorien und Berichte suchen...",
+        "UnsavedChangesWarning": "Sie haben ungespeicherte Änderungen. Möchten Sie diese Seite wirklich verlassen?",
+        "VisibilityToggle": "Sichtbarkeit umschalten",
+        "Visible": "Sichtbar"
+    }
+}

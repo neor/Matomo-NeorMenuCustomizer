@@ -7,6 +7,8 @@
 
 A Matomo 5 plugin that lets SuperUsers reorder and hide categories and reports in the Reporting Menu (left sidebar) through **Administration → System → Reporting Menu**.
 
+![NeorMenuCustomizer reporting menu settings in Matomo](screenshots/menu.png)
+
 ## Features
 
 - **Visual Drag-and-Drop Manager**: Reorder categories and reports within each category.
@@ -17,7 +19,7 @@ A Matomo 5 plugin that lets SuperUsers reorder and hide categories and reports i
 - **Quick Reset**: Restore Matomo's default menu order and visibility.
 - **New Reports**: Keep newly discovered categories and reports available without resetting the saved configuration.
 - **Unsaved Changes Warning**: Warn before leaving the page with unsaved edits.
-- **Translations**: English (`en`) and Russian (`ru`).
+- **Translations**: English (`en`), French (`fr`), Spanish (`es`), Portuguese (`pt`), German (`de`), Italian (`it`), and Russian (`ru`).
 
 Menu visibility is a navigation preference. Hiding an item does not revoke access to its report or API.
 

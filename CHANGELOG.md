@@ -15,6 +15,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Save and reset actions with POST enforcement, SuperUser checks, and token or nonce validation.
 - Configuration stored in the autoloaded Matomo option `NeorMenuCustomizer.menuConfig`.
 - Metadata filtering and ordering through `API.API.getReportPagesMetadata.end`, preserving newly discovered reports and categories.
-- English (`en`) and Russian (`ru`) translations.
+- English (`en`), French (`fr`), Spanish (`es`), Portuguese (`pt`), German (`de`), Italian (`it`), and Russian (`ru`) translations.
 - Standalone smoke test for menu discovery, category filtering, and controller save/reset actions.
 - Installation, usage, and testing instructions, plus the GPL v3 license text.
